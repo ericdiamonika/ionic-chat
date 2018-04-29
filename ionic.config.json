@@ -1,6 +1,6 @@
 {
   "name": "ionic-chat",
-  "app_id": "",
+  "app_id": "c5c010a3",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
